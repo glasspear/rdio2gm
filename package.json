@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/glasspear/rdio2gm/issues"
   },
-  "homepage": "https://github.com/glasspear/rdio2gm#readme"
+  "homepage": "https://github.com/glasspear/rdio2gm#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "googleapis": "^2.1.6",
+    "rdio": "^3.1.0"
+  }
 }
