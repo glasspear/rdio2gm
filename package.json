@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/glasspear/rdio2gm#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.0",
     "express": "^4.13.3",
     "googleapis": "^2.1.6",
     "rdio": "^3.1.0"
